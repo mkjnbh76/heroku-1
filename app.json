@@ -1,6 +1,6 @@
 {
     "name": "heroku-1",
-    "description": "deploy vlvmtw to heroku",
+    "description": "deploy heroku-1 to heroku",
     "keywords": [""],
     "env": {
         "PROTOCOL": {
@@ -9,7 +9,7 @@
             "required": true
         },
         "UUID": {
-            "description":"6711a426-a6a9-4830-b12e-c15027bbd32e" "请输入UUID（表现为：vless-ws与vmess-ws为用户ID，trojan-ws为密码）",
+            "description": "请输入UUID（表现为：vless-ws与vmess-ws为用户ID，trojan-ws为密码）",
             "value": "", 
             "required": true
         }
